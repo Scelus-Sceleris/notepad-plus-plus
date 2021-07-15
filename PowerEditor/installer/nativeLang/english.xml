@@ -102,7 +102,7 @@ The comments are here for explanation, it's not necessary to translate them.
                     <Item id="41021" name="Restore Recent Closed File"/>
                     <Item id="41022" name="Open Folder as &amp;Workspace..."/>
                     <Item id="41023" name="Open in &amp;Default Viewer"/>
-                    <Item id="42001" name="Cu&amp;t"/>
+                    <Item id="42001" name="&amp;Cut"/>
                     <Item id="42002" name="&amp;Copy"/>
                     <Item id="42003" name="&amp;Undo"/>
                     <Item id="42004" name="&amp;Redo"/>
